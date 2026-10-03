@@ -23,8 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Samar-M3/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Samar-M3/LeetCode/tree/master/0014-longest-common-prefix) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samar-M3/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Samar-M3/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Samar-M3/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
