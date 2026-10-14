@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Samar-M3/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Samar-M3/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Samar-M3/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Samar-M3/LeetCode/tree/master/0035-search-insert-position) |
 ## Trie
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samar-M3/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Samar-M3/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
