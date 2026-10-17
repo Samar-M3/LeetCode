@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Samar-M3/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Samar-M3/LeetCode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Samar-M3/LeetCode/tree/main/0069-sqrtx/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Samar-M3/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Samar-M3/LeetCode/tree/main/0069-sqrtx/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Samar-M3/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Samar-M3/LeetCode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
